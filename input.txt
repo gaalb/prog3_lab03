@@ -1,0 +1,11 @@
+pwd
+ls
+ls -l
+mkdir newfolder
+cp lorem_ipsum.txt lorem_gibson.txt
+mv lorem_gibson.txt newfolder/lorem_ipsum.txt
+cd newfolder
+ls -l
+cd ..
+rm newfolder
+exit
